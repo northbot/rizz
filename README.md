@@ -1,4 +1,4 @@
-<h1 align="center">xtr4ct0ne<br></h1>
+<h1 align="center">rizz<br></h1>
 
 <h3 align="center">Extracts domains and subdomains from a HackerOne CSV file.</h3>
 <p align="center">
